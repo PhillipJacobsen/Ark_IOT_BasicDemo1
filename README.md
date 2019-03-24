@@ -1,8 +1,8 @@
-# Ark_Vend
+# Ark_IOT_BasicDemo1
 
-Proof of Concept Project -work in progress.  
+Example Project -work in progress.  
 
-This projects illustrates a vending machine that accepts Ark Cryptocurrency for payment.(Not complete)
+This example illustrates a demo of basic operation of the ARK client interface. This was created as way for me to learn the Ark API 
 
 Program Features: 
 This program has been tested with ESP32 Adafruit Huzzah however it should also work with ESP8266 modules with minor changes to hardware connections and wifi libraries.
